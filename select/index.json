@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Racin’（feat. Kohjiya）",
+  "base_artist": "IO",
+  "createdAt": "2026-02-21T16:31:54.263622Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Speed Racin (feat. Skyzoo and Chaundon)",
+      "artist": "Little Brother",
+      "has_synced": false,
+      "path": "select/01_Speed_Racin_(feat._Skyzoo_and_Chaundon)_Little_Brother.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Racin' (feat. Lil Tjay)",
+      "artist": "KJ Balla",
+      "has_synced": true,
+      "path": "select/02_Racin'_(feat._Lil_Tjay)_KJ_Balla.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Racin' [feat. ちゃんみな] [Explicit]",
+      "artist": "AK-69",
+      "has_synced": true,
+      "path": "select/03_Racin'_[feat._ちゃんみな]_[Explicit]_AK-69.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Racin'",
+      "artist": "I O",
+      "has_synced": false,
+      "path": "select/pl_01_Racin'_I_O.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Racin'",
+      "artist": "I O",
+      "has_synced": false,
+      "path": "select/pl_02_Racin'_I_O.txt"
+    }
+  ]
+}
